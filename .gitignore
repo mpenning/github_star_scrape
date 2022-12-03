@@ -1,0 +1,8 @@
+*.pyc
+MANIFEST
+dist
+build
+*.orig
+tags
+.tox
+.undodir
